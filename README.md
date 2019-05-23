@@ -1,32 +1,36 @@
 # esx_holdup
-This resource for ESX adds stores around the island for criminals to rob!
+Este recurso para o ESX adiciona lojas ao redor da ilha para que os criminosos roubem!
 
-### Requirements
-- [esx_policejob](https://github.com/ESX-Org/esx_policejob)
+### Requisitos
+- [esx_policejob](https://github.com/ESX-Brasil/esx_policejob)
 
-## Download & Installation
+## Download e Instalação
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
+### Usando [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_holdup
+fvm install --save --folder=esx ESX-Brasil/esx_holdup
 ```
 
-### Using Git
+### Usando o Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_holdup [esx]/esx_holdup
+git clone https://github.com/ESX-Brasil/esx_holdup [esx]/esx_holdup
 ```
 
-### Manually
-- Download https://github.com/ESX-Org/esx_holdup/archive/master.zip
-- Put it in the `[esx]` directory
+### Manualmente
+- Download https://github.com/ESX-Brasil/esx_holdup/archive/master.zip
+- Coloque no diretório `[esx]`
 
 ## Installation
-- Add this to your `server.cfg`:
+- Add isto em seu `server.cfg`:
 
 ```
 start esx_holdup
 ```
+
+# Discord
+
+[![Join ESX Brasil](https://discordapp.com/api/guilds/432980396070666250/embed.png?style=banner2)](https://discord.gg/8zGbh3T)
 
 # Legal
 ### License
