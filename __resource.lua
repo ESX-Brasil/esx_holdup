@@ -2,11 +2,10 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 description 'ESX Holdup'
 
-version '1.1.1'
+version '1.1.2'
 
 client_scripts {
 	'@es_extended/locale.lua',
-	'locales/br.lua',
 	'locales/de.lua',
 	'locales/en.lua',
 	'locales/fi.lua',
@@ -19,7 +18,6 @@ client_scripts {
 
 server_scripts {
 	'@es_extended/locale.lua',
-	'locales/br.lua',
 	'locales/de.lua',
 	'locales/en.lua',
 	'locales/fi.lua',

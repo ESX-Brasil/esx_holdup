@@ -1,5 +1,5 @@
 # esx_holdup
-Este recurso para o ESX adiciona lojas ao redor da ilha para que os criminosos roubem!
+Este recurso para o ESX adiciona lojas ao redor da cidade para que os criminosos roubem!
 
 ### Requisitos
 - [esx_policejob](https://github.com/ESX-Brasil/esx_policejob)
